@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ybazail3
+- 👋 Hi, my name is Yazmin
 - 🌱 I’m currently learning Python
